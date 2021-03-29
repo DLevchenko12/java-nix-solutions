@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/autoservice/autoservice.iml" filepath="$PROJECT_DIR$/autoservice/autoservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-nix-solutions.iml" filepath="$PROJECT_DIR$/.idea/java-nix-solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
     </modules>
   </component>
 </project>
