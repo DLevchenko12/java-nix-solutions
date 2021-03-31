@@ -1,9 +1,8 @@
 package controller;
 
 import dao.DaoService;
-import model.Service;
 
-public class ServiceDao implements DaoService<Service> {
+public class ServiceDao implements DaoService {
     @Override
     public boolean checkOrderStatus() {
         return false;
@@ -16,6 +15,11 @@ public class ServiceDao implements DaoService<Service> {
 
     @Override
     public void searchBespoke() {
+
+    }
+
+    @Override
+    public void searchWarehouse(int id) {
 
     }
 }
